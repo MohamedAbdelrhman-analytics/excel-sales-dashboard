@@ -37,26 +37,12 @@ This project demonstrates how Microsoft Excel can be used to transform raw sales
 - Pivot Charts
 - Slicers
 
-## Dashboard Preview
 
-# 📊 Excel Sales Dashboard
-
-## Overview
-Interactive Excel dashboard for analyzing sales performance using Pivot Tables, Charts, KPIs, and Slicers.
-
-## Features
-- Data Cleaning
-- KPI Cards
-- Pivot Tables
-- Pivot Charts
-- Interactive Slicers
-- Sales Analysis
-
-## Tools
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
 
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+## Files
+
+- Excel_Sales_Dashboard_Project.xlsx
+- Dashboard.png
