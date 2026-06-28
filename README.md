@@ -1,5 +1,10 @@
 # Excel Sales Dashboard
 
+![Dashboard](Dashboard.png)
+
+## Project Overview
+...
+
 ## Project Overview
 
 This project demonstrates how Microsoft Excel can be used to transform raw sales data into an interactive dashboard for business decision-making.
